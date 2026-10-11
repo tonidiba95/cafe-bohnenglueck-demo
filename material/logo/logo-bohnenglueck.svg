@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" role="img" aria-label="Logo Café Bohnenglück">
+  <title>Café Bohnenglück</title>
+  <g transform="translate(70 70)">
+    <circle r="56" fill="#2a180d"/>
+    <g transform="rotate(-28)">
+      <ellipse rx="24" ry="34" fill="#d08a4c"/>
+      <path d="M0-32C-9-10 9 10 0 32" stroke="#2a180d" stroke-width="5" fill="none" stroke-linecap="round"/>
+    </g>
+    <path d="M30-30c8 10 8 22 0 32" stroke="#ecc89b" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="145" y="72" font-family="Iowan Old Style, Palatino, Georgia, serif" font-size="50" font-weight="700" fill="#2a180d">Bohnen<tspan fill="#b9572f">glück</tspan></text>
+  <text x="148" y="108" font-family="Avenir Next, Helvetica, Arial, sans-serif" font-size="17" letter-spacing="6" fill="#7a5a43">CAFÉ · LEIPZIG</text>
+</svg>
